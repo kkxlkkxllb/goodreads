@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'yard',      '~> 0.6'
   
   s.add_runtime_dependency 'rest-client',   '~> 1.6'
-  s.add_runtime_dependency 'hashie',        '~> 2.0'
+  s.add_runtime_dependency 'hashie',        '~> 1.2'
   s.add_runtime_dependency 'activesupport', '~> 3'
   s.add_runtime_dependency 'i18n',          '~> 0.5'
   s.add_runtime_dependency 'oauth',         '~> 0.4'
